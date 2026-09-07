@@ -137,7 +137,7 @@ The optimized production bundle will be generated in the `dist/` directory.
 - **Author**: Priyanshu
 - **Role**: Full-Stack & Applied AI Engineer
 - **GitHub**: [@Priyanshu03s](https://github.com/Priyanshu03s)
-- **Email**: [priyanshurajput03s@gmail.com](mailto:priyanshurajput03s@gmail.com)
+- **Email**: [priyanshurajput60@gmail.com](mailto:priyanshurajput60@gmail.com)
 - **Resume**: [Google Docs Resume](https://docs.google.com/document/d/1XSdt0Ag2T3Ry-81sk9Dc8WiljaTEfB5hasGQZw7y-K0/edit?usp=drive_link)
 
 ---

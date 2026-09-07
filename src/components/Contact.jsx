@@ -19,7 +19,7 @@ const Contact = () => {
   const [currentFrameIdx, setCurrentFrameIdx] = useState(0);
   const [copied, setCopied] = useState(false);
 
-  const myEmail = "priyanshurajput03s@gmail.com";
+  const myEmail = "priyanshurajput60@gmail.com";
   const frameCount = 160;
   const imagesRef = useRef([]);
   const seqRef = useRef({ frame: 0 });
